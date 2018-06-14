@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_height="fill_parent" android:layout_width="wrap_content" android:isScrollContainer="true">
+    <TableLayout android:id="@+id/tableLayout1" android:visibility="visible" android:layout_margin="5dip" android:fitsSystemWindows="true" android:layout_width="319dp" android:layout_height="fill_parent">
+        <EditText android:id="@+id/errMsgText" android:layout_width="wrap_content" android:inputType="textMultiLine" android:cursorVisible="false" android:textColor="#333" android:paddingTop="3dp" android:background="#000000" android:layout_height="50dp"></EditText>
+        <TableRow android:id="@+id/tableRow1" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_margin="5dip">
+        </TableRow>
+        <TableRow android:id="@+id/tableRow2" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_margin="5dip" android:background="#000000">
+        </TableRow>
+        <Button android:clickable="true" android:layout_width="wrap_content" android:includeFontPadding="true" android:layout_height="wrap_content" android:id="@+id/scanBarcode" android:text="@string/scanBarcodeText" android:onClick="scanBarcode"></Button>
+        <TableRow android:id="@+id/tableRow3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="5dip">
+        </TableRow>
+        <!--  <EditText android:id="@+id/textEmpDetails" android:background="#444444" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/messageBoxStyle"></EditText> -->
+        <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow5" android:layout_width="fill_parent" android:layout_margin="5dip">
+        </TableRow>
+    </TableLayout>
+
+</FrameLayout>
+

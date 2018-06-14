@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_margin="10px"
+	android:clickable="false" android:padding="5dip" android:layout_height="fill_parent"
+	android:layout_width="fill_parent" android:layout_gravity="top|center_horizontal" android:gravity="top|center_horizontal|center">
+	<TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<EditText android:textColor="#339933"
+			android:cursorVisible="false" android:inputType="textMultiLine"
+			android:clickable="false" android:id="@+id/syncmsgbox" android:background="#000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="40dip"></EditText>
+	</TableRow>
+	<TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content"
+		android:layout_height="wrap_content"></TableRow>
+	<TableRow android:id="@+id/tableRow3" android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<Button android:text="@string/synchronize"
+			android:layout_height="wrap_content" android:onClick="syncLocal"
+			android:id="@+id/synchronize" android:layout_width="fill_parent"
+			android:textSize="20sp"></Button>
+	</TableRow>
+	<TableRow android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/tableRow5">
+		<Spinner android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/locationlist"></Spinner>
+	</TableRow>
+	<TableRow android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/tableRow6">
+		<Spinner android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/shiftlist"></Spinner>
+	</TableRow>
+	<TableRow android:id="@+id/tableRow4" android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<Button android:layout_height="wrap_content" android:text="Proceed to Attendance"
+			android:onClick="proceedToAttendance" android:id="@+id/proceedforatndce"
+			android:layout_width="fill_parent" android:textSize="20sp"></Button>
+	</TableRow>
+
+</TableLayout>

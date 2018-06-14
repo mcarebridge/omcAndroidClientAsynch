@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,perspective,org.eclipse.jst.j2ee.ui,,"org.eclipse.jst.j2ee.J2EEPerspective",1378441976355
+started,bundle,org.eclipse.osgi,3.7.2.v20120110-1415,"org.eclipse.osgi",1378441976358
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1378441976385
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20110423-0524,"org.eclipse.core.contenttype",1378441976387
+started,bundle,org.eclipse.core.databinding.observable,1.4.0.I20110222-0800,"org.eclipse.core.databinding.observable",1378441976390
+started,bundle,org.eclipse.core.expressions,3.4.300.v20110228,"org.eclipse.core.expressions",1378441976391
+started,bundle,org.eclipse.core.filesystem,1.3.100.v20110423-0524,"org.eclipse.core.filesystem",1378441976393
+started,bundle,org.eclipse.core.net,1.2.100.I20110511-0800,"org.eclipse.core.net",1378441976396
+started,bundle,org.eclipse.core.runtime,3.7.0.v20110110,"org.eclipse.core.runtime",1378441976397
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1378441976399
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20110110,"org.eclipse.core.runtime.compatibility.auth",1378441976401
+started,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1378441976455
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201106061540,"org.eclipse.epp.usagedata.gathering",1378441976564
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1378441976752
+started,bundle,org.eclipse.equinox.app,1.3.100.v20110321,"org.eclipse.equinox.app",1378441976753
+started,bundle,org.eclipse.equinox.common,3.6.0.v20110523,"org.eclipse.equinox.common",1378441976754
+started,bundle,org.eclipse.equinox.ds,1.3.1.R37x_v20110701,"org.eclipse.equinox.ds",1378441976755
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1378441976757
+started,bundle,org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,"org.eclipse.equinox.registry",1378441976759
+started,bundle,org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,"org.eclipse.equinox.security",1378441976855
+started,bundle,org.eclipse.equinox.util,1.0.300.v20110502,"org.eclipse.equinox.util",1378441976857
+started,bundle,org.eclipse.help,3.5.100.v20110426,"org.eclipse.help",1378441976858
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1378441976926
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1378441976972
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1378441977053
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1378441977054
+started,bundle,org.eclipse.jst.j2ee.navigator.ui,1.1.501.v201107261503,"org.eclipse.jst.j2ee.navigator.ui",1378441977638
+started,bundle,org.eclipse.jst.j2ee.webservice,1.1.400.v201004110600,"org.eclipse.jst.j2ee.webservice",1378441977716
+started,bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.500.v201105122000,"org.eclipse.jst.j2ee.webservice.ui",1378441977717
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1378441977718
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1378441977764
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1378441977867
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1378441977887
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1378441977961
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1378441977963
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1378441977999
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1378441978036
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1378441978161
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1378441978164
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1378441978236
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1378441978238
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1378441978239
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1378441978242
+started,bundle,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.adt",1378441978242
+started,bundle,com.android.ide.eclipse.ddms,12.0.0.v201106281929-138431,"com.android.ide.eclipse.ddms",1378441978276
+started,bundle,org.eclipse.team.svn.mylyn,0.7.9.I20110318-1700,"org.eclipse.team.svn.mylyn",1378441978298
+started,bundle,org.eclipse.emf.common,2.7.0.v20120127-1122,"org.eclipse.emf.common",1378441978417
+started,bundle,org.eclipse.emf.common.ui,2.7.0.v20120130-0943,"org.eclipse.emf.common.ui",1378441978419
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1378441978674
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1378441978799
+started,bundle,org.eclipse.emf.edit,2.7.2.v20120130-0943,"org.eclipse.emf.edit",1378441978800
+started,bundle,org.eclipse.emf.edit.ui,2.7.0.v20120130-0943,"org.eclipse.emf.edit.ui",1378441978800
+started,bundle,org.eclipse.jem,2.0.501.v201111030500,"org.eclipse.jem",1378441978858
+started,bundle,org.eclipse.jst.j2ee,1.1.503.v201202090300,"org.eclipse.jst.j2ee",1378441979019
+started,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1378441979095
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1378441979161
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1378441979226
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1378441979227
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1378441979262
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1378441979264
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1378441979264
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1378441979334
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1378441979566
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1378441979567
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1378441979674
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1378441979676
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20110815-1438,"org.eclipse.equinox.simpleconfigurator",1378441979676
+started,bundle,com.google.appengine.eclipse.core,3.1.2.v201211121242-rel-r37,"com.google.appengine.eclipse.core",1378441979677
+started,bundle,com.google.gdt.eclipse.core,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.core",1378441979677
+started,bundle,com.google.gdt.eclipse.login,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.login",1378441979678
+started,bundle,com.google.gdt.eclipse.managedapis,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.managedapis",1378441979678
+started,bundle,com.google.gdt.eclipse.platform.e37,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.platform.e37",1378441979679
+started,bundle,com.google.gdt.eclipse.suite.ext,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.suite.ext",1378441979679
+started,bundle,com.google.gwt.eclipse.core,3.1.2.v201211121242-rel-r37,"com.google.gwt.eclipse.core",1378441979969
+started,bundle,com.ibm.icu,4.4.2.v20110823,"com.ibm.icu",1378441980006
+started,bundle,org.eclipse.core.filebuffers,3.5.200.v20110928-1504,"org.eclipse.core.filebuffers",1378441980007
+started,bundle,org.eclipse.core.jobs,3.5.101.v20120113-1953,"org.eclipse.core.jobs",1378441980007
+started,bundle,org.eclipse.core.resources,3.7.101.v20120125-1505,"org.eclipse.core.resources",1378441980008
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1378441980147
+started,bundle,org.eclipse.debug.core,3.7.1.v20111129-2031,"org.eclipse.debug.core",1378441980149
+started,bundle,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui",1378441980151
+started,bundle,org.eclipse.equinox.p2.core,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.core",1378441980152
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.300.v20110815-1419,"org.eclipse.equinox.p2.directorywatcher",1378441980153
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.100.v20110815-1419,"org.eclipse.equinox.p2.reconciler.dropins",1378441980154
+started,bundle,org.eclipse.equinox.preferences,3.4.2.v20120111-2020,"org.eclipse.equinox.preferences",1378441980155
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1378441980156
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1378441980196
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1378441980197
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1378441980282
+started,bundle,org.eclipse.jface,3.7.0.v20110928-1505,"org.eclipse.jface",1378441980283
+started,bundle,org.eclipse.jst.j2ee.ui,1.1.503.v201201190400,"org.eclipse.jst.j2ee.ui",1378441980742
+started,bundle,org.eclipse.jst.jee.ui,1.0.401.v201202011107,"org.eclipse.jst.jee.ui",1378441981343
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r372_v20111101-0700,"org.eclipse.ltk.core.refactoring",1378441981344
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1378441981345
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.8.2.v20120916-1200,"org.eclipse.mylyn.bugzilla.core",1378441981345
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.8.2.v20120916-1200,"org.eclipse.mylyn.bugzilla.ui",1378441981346
+started,bundle,org.eclipse.mylyn.commons.core,3.8.2.v20120916-1200,"org.eclipse.mylyn.commons.core",1378441981347
+started,bundle,org.eclipse.mylyn.commons.net,3.8.2.v20120916-1200,"org.eclipse.mylyn.commons.net",1378441981347
+started,bundle,org.eclipse.mylyn.commons.notifications.core,1.0.2.v20120916-1200,"org.eclipse.mylyn.commons.notifications.core",1378441981347
+started,bundle,org.eclipse.mylyn.commons.notifications.feed,1.0.2.v20120916-1200,"org.eclipse.mylyn.commons.notifications.feed",1378441981348
+started,bundle,org.eclipse.mylyn.commons.ui,3.8.2.v20120916-1200,"org.eclipse.mylyn.commons.ui",1378441981349
+started,bundle,org.eclipse.mylyn.commons.workbench,3.8.2.v20120916-1200,"org.eclipse.mylyn.commons.workbench",1378441981350
+started,bundle,org.eclipse.mylyn.context.core,3.8.2.v20120916-1200,"org.eclipse.mylyn.context.core",1378441981350
+started,bundle,org.eclipse.mylyn.context.tasks.ui,3.8.2.v20120916-1200,"org.eclipse.mylyn.context.tasks.ui",1378441981351
+started,bundle,org.eclipse.mylyn.monitor.ui,3.8.2.v20120916-1200,"org.eclipse.mylyn.monitor.ui",1378441981352
+started,bundle,org.eclipse.mylyn.tasks.ui,3.8.2.v20120916-1200,"org.eclipse.mylyn.tasks.ui",1378441981377
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1378441981378
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1378441981628
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1378441981630
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1378441981630
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1378441981631
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1378441981636
+started,bundle,org.eclipse.ui.navigator,3.5.101.v20120106-1355,"org.eclipse.ui.navigator",1378441981867
+started,bundle,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.resources",1378441981912
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1378441981913
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1378441981959
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1378441981961
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1378441981963
+os,sysinfo,,,"win32",1378441981968
+arch,sysinfo,,,"x86_64",1378441981968
+ws,sysinfo,,,"win32",1378441981968
+locale,sysinfo,,,"en_US",1378441981968
+processors,sysinfo,,,"4",1378441981968
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1378441981968
+java.runtime.version,sysinfo,,,"1.6.0_27-b07",1378441981968
+java.specification.name,sysinfo,,,"Java Platform API Specification",1378441981968
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1378441981968
+java.specification.version,sysinfo,,,"1.6",1378441981968
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1378441981968
+java.version,sysinfo,,,"1.6.0_27",1378441981968
+java.vm.info,sysinfo,,,"mixed mode",1378441981968
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1378441981968
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1378441981968
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1378441981968
+java.vm.specification.version,sysinfo,,,"1.0",1378441981968
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1378441981968
+java.vm.version,sysinfo,,,"20.2-b06",1378441981968
+started,bundle,org.eclipse.team.svn.ui,0.7.9.I20110819-1700,"org.eclipse.team.svn.ui",1378441983214
+started,bundle,com.google.gdt.eclipse.appengine.rpc,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.appengine.rpc",1378441983382
+started,bundle,org.polarion.eclipse.team.svn.connector.svnkit16,2.2.2.I20110819-1700,"org.polarion.eclipse.team.svn.connector.svnkit16",1378441983547
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1378441983604
+started,bundle,org.eclipse.team.svn.revision.graph,0.7.9.I20110318-1700,"org.eclipse.team.svn.revision.graph",1378441983653
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1378441983654
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1378441986113
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1378441986302
+started,bundle,org.eclipse.equinox.p2.operations,2.1.1.R37x_v20111111,"org.eclipse.equinox.p2.operations",1378441986303
+started,bundle,org.eclipse.equinox.p2.engine,2.1.1.R37x_v20111003,"org.eclipse.equinox.p2.engine",1378441986460
+started,bundle,org.eclipse.equinox.p2.metadata,2.1.0.v20110815-1419,"org.eclipse.equinox.p2.metadata",1378441986974
+started,bundle,org.eclipse.equinox.p2.repository,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.repository",1378441987390
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.0.v20110815-1419,"org.eclipse.equinox.p2.metadata.repository",1378441987510
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.100.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.scheduler",1378441988128
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20110815-1419,"org.eclipse.equinox.p2.updatechecker",1378441988229
+started,bundle,org.eclipse.jst.ws.jaxws.utils,1.0.100.v201201031437,"org.eclipse.jst.ws.jaxws.utils",1378441988354
+started,bundle,org.eclipse.mylyn.team.ui,3.8.2.v20120916-1200,"org.eclipse.mylyn.team.ui",1378441988945
+started,bundle,org.eclipse.draw2d,3.7.2.v20111017-2020,"org.eclipse.draw2d",1378442008386
+started,bundle,com.google.gdt.eclipse.maven,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.maven",1378442023277
+started,bundle,com.google.gdt.eclipse.suite,3.1.2.v201211121242-rel-r37,"com.google.gdt.eclipse.suite",1378442023285
+error,log,,,"The site.xml file downloaded from the update site does not contain any <feature> elements with an id of 'com.google.appengine.eclipse.sdkbundle.e37.feature'. Unable to determine if there are updates available.",1378442029841
+error,log,,,"Problems occurred when invoking code from plug-in: ""com.google.gdt.eclipse.suite.ext"".",1378442030507
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1378449544055
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.101.v201201031437,"org.eclipse.jst.ws.jaxws.dom.integration",1378449544179
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1378449544179
+started,bundle,org.eclipse.jst.servlet.ui,1.1.502.v201202011054,"org.eclipse.jst.servlet.ui",1378449544326
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378449547447
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378449550691
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378449552309
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378449725299
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.200.v201101281837,"org.eclipse.wst.xsl.debug.ui",1378449725855
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378449726637
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378450420484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378450422093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378452168408
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378469155496
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378470013699
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378470026280
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378470552278
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378470556723
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489104371
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489105843
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489107434
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489109369
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489111085
+opened,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1378489125312
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1378489125374
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.saveAll",1378489133658
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1378489142004
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1378489143190
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1378489143252
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1378489143502
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1378489143502
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1378489145873
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110928-1453,"org.eclipse.jdt.junit.core",1378489147355
+executed,command,org.eclipse.team.svn.ui,0.7.9.I20110819-1700,"org.eclipse.team.svn.ui.command.SynchronizeCommand",1378489150724
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489151068
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489151894
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489151910
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489153782
+opened,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.sync.views.SynchronizeView",1378489156606
+opened,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.GenericHistoryView",1378489156933
+opened,view,org.eclipse.mylyn.tasks.ui,3.8.2.v20120916-1200,"org.eclipse.mylyn.tasks.ui.views.repositories",1378489157526
+activated,perspective,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.TeamSynchronizingPerspective",1378489157666
+activated,editor,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1378489157744
+activated,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.sync.views.SynchronizeView",1378489158134
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1378489160303
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1378489160818
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1378489160818
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489161036
+error,log,,,"SVN: '0x00000107: Synchronizing' operation finished with error",1378489162518
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489180271
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489181316
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489181488
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489184530
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489223209
+started,bundle,com.google.appengine.eclipse.datatools,3.1.2.v201211121242-rel-r37,"com.google.appengine.eclipse.datatools",1378489228188
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489240185
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489240231
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489240559
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489269029
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489269949
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489284021
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489285035
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489299636
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489300432
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489313505
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489314488
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489333348
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489334128
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489343769
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489344580
+started,bundle,org.eclipse.equinox.security.ui,1.1.0.v20101004,"org.eclipse.equinox.security.ui",1378489354252
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489364844
+error,log,,,"Unable to decrypt value associated with the key ""org.eclipse.equinox.security.windowspasswordprovider64bit"" on the node ""/org.eclipse.equinox.secure.storage/verification"".",1378489364860
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489365094
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya:505110eb119b00111ea69af5a7f80b5b:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489365094
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489365297
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya:505110eb119b00111ea69af5a7f80b5b:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489365297
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489365500
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya:505110eb119b00111ea69af5a7f80b5b:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489365500
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489365702
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fandroid:30541c32f14400111489debc7b1b5cf1"".",1378489365702
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489365905
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fandroid:30541c32f14400111489debc7b1b5cf1"".",1378489365905
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489366108
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fandroid:30541c32f14400111489debc7b1b5cf1"".",1378489366108
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489366311
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fAndroidClient:10f49addbc9c001111ff9b832b386679:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489366311
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489366498
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fAndroidClient:10f49addbc9c001111ff9b832b386679:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489366498
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489366701
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fAndroidClient:10f49addbc9c001111ff9b832b386679:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489366701

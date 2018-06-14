@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+	<TableLayout android:layout_margin="0px" android:id="@+id/tableLayout1"
+		android:clickable="true" android:layout_gravity="top|center_horizontal"
+		android:gravity="top|center_horizontal|center" android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+		<TableRow android:layout_width="wrap_content" android:id="@+id/tableRow1"
+			android:layout_height="40dp">
+		</TableRow>
+		<TableRow android:layout_width="wrap_content" android:id="@+id/tableRow2"
+			android:layout_height="40dp">
+			<ImageView android:id="@+id/logo" android:layout_height="wrap_content"
+				android:layout_width="fill_parent" android:src="@drawable/logo"></ImageView>
+		</TableRow>
+		<TableRow android:layout_width="wrap_content" android:id="@+id/tableRow4"
+			android:layout_height="100dp" android:visibility="visible">
+			<EditText android:id="@+id/datetime" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:visibility="visible" android:clickable="false"
+				android:padding="2px" android:cursorVisible="false" android:textSize="20dip">
+				<requestFocus></requestFocus>
+			</EditText>
+		</TableRow>
+		<TableRow android:layout_width="wrap_content" android:id="@+id/tableRow5"
+			android:layout_height="fill_parent">
+			<ImageView android:id="@+id/logon" android:layout_width="fill_parent"
+				android:src="@drawable/logon" android:visibility="visible"
+				android:layout_height="fill_parent"></ImageView>
+		</TableRow>
+		<TableRow android:layout_width="wrap_content" android:id="@+id/tableRow6"
+			android:layout_height="100dp" android:visibility="visible">
+			<EditText android:layout_width="wrap_content"
+				android:inputType="textMultiLine" android:id="@+id/coordinates"
+				android:layout_height="wrap_content" android:clickable="false" android:cursorVisible="false" android:textSize="12dip"></EditText>
+		</TableRow>
+	</TableLayout>
+</LinearLayout>
+

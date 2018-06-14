@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TableLayout android:layout_margin="2px" android:id="@+id/tableLayout1"
+		android:clickable="true" android:layout_gravity="top|center_horizontal"
+		android:gravity="top|center_horizontal|center" android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+		<EditText android:id="@+id/textViewMsgWindow"
+			android:includeFontPadding="false" android:clickable="false"
+			android:inputType="textMultiLine" android:layout_height="wrap_content"
+			android:background="#000000" android:focusableInTouchMode="false"
+			android:cursorVisible="false" android:focusable="false"
+			android:layout_width="fill_parent" android:textSize="15sp"></EditText>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:id="@+id/tableRow1">
+			<EditText android:id="@+id/loginId" android:text="@string/loginid"
+				android:layout_width="wrap_content" android:clickable="false"
+				android:textColor="#DDDDDD" android:background="#000000"
+				android:focusableInTouchMode="false" android:cursorVisible="false"
+				android:focusable="false" android:layout_height="wrap_content"
+				android:minWidth="150dip" android:textSize="20sp"></EditText>
+			<EditText android:id="@+id/textLoginId" android:visibility="visible"
+				android:layout_width="fill_parent" android:clickable="false"
+				android:width="150dip" android:fadingEdge="horizontal|vertical"
+				android:focusableInTouchMode="true" android:focusable="true"
+				android:layout_height="wrap_content" android:minWidth="150dip"
+				android:maxLength="30"></EditText>
+		</TableRow>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:id="@+id/tableRow2">
+			<EditText android:id="@+id/passcode" android:text="@string/passcode"
+				android:layout_width="wrap_content" android:clickable="false"
+				android:textColor="#DDDDDD" android:background="#000000"
+				android:focusableInTouchMode="false" android:focusable="false"
+				android:layout_height="wrap_content" android:textSize="20sp"></EditText>
+			<EditText android:id="@+id/pwdPasscode"
+				android:layout_width="wrap_content" android:inputType="textPassword"
+				android:width="150dip" android:textColor="#CC4D33"
+				android:paddingLeft="3dip" android:layout_height="wrap_content"></EditText>
+		</TableRow>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="fill_parent" android:id="@+id/tableRow4">
+			<EditText android:id="@+id/location" android:text="@string/location"
+				android:layout_width="wrap_content" android:clickable="false"
+				android:textColor="#DDDDDD" android:background="#000000"
+				android:focusableInTouchMode="false" android:focusable="false"
+				android:layout_height="wrap_content" android:textSize="20sp"></EditText>
+			<EditText android:clickable="false" android:layout_height="wrap_content"
+				android:id="@+id/textLocation" android:height="40dip"
+				android:paddingLeft="3dip" android:background="#BBBBBB"
+				android:focusable="false"
+				android:layout_width="wrap_content" android:textSize="12dp"
+				android:focusableInTouchMode="false" android:width="150dp"
+				android:textColor="#000066" android:lines="2" android:text="Waiting for Location...">
+				<requestFocus></requestFocus>
+			</EditText>
+		</TableRow>
+		<TableRow android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:id="@+id/tableRow3">
+			<Button android:layout_width="fill_parent" android:onClick="loadAttendanceRegister"
+				android:minWidth="100dip" android:layout_height="wrap_content"
+				android:text="@string/submit" android:id="@+id/buttonSubmit"
+				android:textSize="20sp"></Button>
+			<Button android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="@string/forgotpwd"
+				android:id="@+id/buttonForgetPassword" android:textSize="20sp"></Button>
+		</TableRow>
+		<Button android:layout_height="wrap_content" android:onClick="refreshLocation"
+			android:text="@string/refreshLocationStr" android:layout_width="wrap_content"
+			android:id="@+id/refreshLocation" android:textSize="20sp"></Button>
+		<Button android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/contiAttend" android:text="@string/contiattend" android:textSize="20sp" android:onClick="continueAttendance"></Button>
+		<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/logoutExit" android:text="@string/logoutexit" android:textSize="20sp" android:onClick="logoutAndExit"></Button>
+	</TableLayout>
+</LinearLayout>

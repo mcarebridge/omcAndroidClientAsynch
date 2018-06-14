@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TableLayout android:id="@+id/tableLayout1"
+		android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<EditText android:layout_height="wrap_content"
+			android:id="@+id/textViewMsgWindow"
+			android:inputType="textMultiLine" android:clickable="false"
+			android:cursorVisible="false" android:layout_width="fill_parent">
+			<requestFocus></requestFocus>
+		</EditText>
+		<TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+			<EditText android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/loginId" android:text="@string/loginid" android:minWidth="150dip"></EditText>
+			<EditText android:clickable="false" android:layout_height="wrap_content"
+				android:layout_width="fill_parent" android:id="@+id/editText1" android:minWidth="150dip" android:width="150dip"></EditText>
+		</TableRow>
+		<TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+			<EditText android:layout_height="wrap_content"
+				android:layout_width="wrap_content" android:id="@+id/editText5" android:text="@string/passcode"></EditText>
+			<EditText android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/editText2" android:inputType="textPassword" android:width="150dip"></EditText>
+		</TableRow>
+		<TableRow android:id="@+id/tableRow3" android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+			<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/button1" android:text="@string/submit" android:minWidth="100dip" android:onClick="loadAttendanceRegister"></Button>
+			<Button android:layout_height="wrap_content" android:id="@+id/button2" android:text="@string/forgotpwd" android:layout_width="wrap_content"></Button>
+		</TableRow>
+	</TableLayout>
+
+</LinearLayout>

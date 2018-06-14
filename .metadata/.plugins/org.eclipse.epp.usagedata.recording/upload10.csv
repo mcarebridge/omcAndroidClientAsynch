@@ -1,0 +1,151 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489387090
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fHR\\2ftrunk\\2fMobileSlimAttendance:d04cc7cb176300121c9cbbfd8ef86691"".",1378489387090
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489387277
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fHR\\2ftrunk\\2fMobileSlimAttendance:d04cc7cb176300121c9cbbfd8ef86691"".",1378489387277
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489387480
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:704bffc353b8001111f7ce1405c7cc00"".",1378489387480
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489387683
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:704bffc353b8001111f7ce1405c7cc00"".",1378489387683
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489387870
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:704bffc353b8001111f7ce1405c7cc00"".",1378489387870
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489388073
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya:408fc251119b001119f5a6ed6788fee2"".",1378489388073
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489388260
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya:408fc251119b001119f5a6ed6788fee2"".",1378489388276
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489388463
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya:408fc251119b001119f5a6ed6788fee2"".",1378489388463
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489388666
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:604b5800b80b001119d1efb1314f504d:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489388666
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489388853
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:604b5800b80b001119d1efb1314f504d:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489388853
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489389056
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:604b5800b80b001119d1efb1314f504d:<https:\\2f\\2fadviteya.googlecode.com:443> Google Code Subversion Repository"".",1378489389056
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489389258
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn:b075b3eb59520012135ee1ca25910188"".",1378489389258
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489389446
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn:b075b3eb59520012135ee1ca25910188"".",1378489389446
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489389648
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn:b075b3eb59520012135ee1ca25910188"".",1378489389648
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489389836
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fcore:e00259cf214500111057f04ac6a4cad3"".",1378489389851
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489390038
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fcore:e00259cf214500111057f04ac6a4cad3"".",1378489390038
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489390241
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fcore:e00259cf214500111057f04ac6a4cad3"".",1378489390241
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489390444
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fandroid:501a536df34400111057f04ac6a4cad3"".",1378489390444
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489390631
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fandroid:501a536df34400111057f04ac6a4cad3"".",1378489390631
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489390834
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/http:\\2f\\2fzxing.googlecode.com\\2fsvn\\2ftrunk\\2fandroid:501a536df34400111057f04ac6a4cad3"".",1378489390834
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489391021
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:b040569cb50b001112bd862f653139aa"".",1378489391037
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489391224
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:b040569cb50b001112bd862f653139aa"".",1378489391224
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489391427
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:b040569cb50b001112bd862f653139aa"".",1378489391427
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489391614
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fhrmastercontrol:10b67b9b555200121402a38be2600a22"".",1378489391614
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489391817
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fhrmastercontrol:10b67b9b555200121402a38be2600a22"".",1378489391817
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489392020
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fhrmastercontrol:10b67b9b555200121402a38be2600a22"".",1378489392020
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489392207
+error,log,,,"Unable to decrypt value associated with the key ""ssh_passprase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:40a833d45f2600121714d364211f1391"".",1378489392207
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489392410
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:40a833d45f2600121714d364211f1391"".",1378489392410
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489392597
+error,log,,,"Unable to decrypt value associated with the key ""ssl_passphrase"" on the node ""/SVN/https:\\2f\\2fadviteya.googlecode.com\\2fsvn\\2ftrunk\\2fadviteya\\2fMobileEmployeeAttendance:40a833d45f2600121714d364211f1391"".",1378489392597
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489392800
+error,log,,,"Unable to decrypt value associated with the key ""username"" on the node ""/org.eclipse.equinox.p2.repository/studio-android.motodevupdate.com"".",1378489392800
+error,log,,,"Secure storage was unable to retrieve the master password. If secure storage was created using a different Windows account, you'll have to switch back to that account. Alternatively, you can use the password recovery, or delete and re-create secure storage.",1378489393002
+error,log,,,"Unable to decrypt value associated with the key ""password"" on the node ""/org.eclipse.equinox.p2.repository/studio-android.motodevupdate.com"".",1378489393002
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489393065
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489393065
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489400595
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489403559
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489420142
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489420813
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489421951
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489432747
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489432809
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489432856
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489447847
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489448690
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489453058
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489454072
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489455523
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1378489458112
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1378489458877
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1378489459157
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1378489459235
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1378489463401
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1378489464430
+activated,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.sync.views.SynchronizeView",1378489468751
+executed,command,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.synchronizeLast",1378489472807
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489473088
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489482277
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489484024
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489488782
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489491746
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489491808
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489491855
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489495443
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489496285
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489498781
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489499452
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489511589
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489512244
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489513679
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1378489517876
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.exit",1378489518469
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.104.v201004211805,"org.eclipse.jst.ws.axis2.creation.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.103.v201004211805,"org.eclipse.jst.ws.axis2.consumption.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.106.v201004211805,"org.eclipse.jst.ws.axis2.creation.core",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.105.v201004211805,"org.eclipse.jst.ws.axis2.consumption.core",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.303.v201003110431,"org.eclipse.jst.ws.axis2.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.axis2.core,1.0.204.v201004211805,"org.eclipse.jst.ws.axis2.core",1378489518687
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.ui,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.609.v201103082016,"org.eclipse.jst.ws.creation.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.ui,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.core,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.core",1378489518687
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.core",1378489518687
+stopped,bundle,org.eclipse.jst.ws.cxf.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.cxf.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.cxf.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.core",1378489518687
+stopped,bundle,org.eclipse.jst.ws.uddiregistry,1.0.500.v201004211805,"org.eclipse.jst.ws.uddiregistry",1378489518687
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.402.v201201250306,"org.eclipse.jst.ws.consumption.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.ui,1.0.403.v201004211805,"org.eclipse.jst.ws.ui",1378489518687
+stopped,bundle,org.eclipse.jst.ws.consumption,1.0.603.v201202012024,"org.eclipse.jst.ws.consumption",1378489518687
+stopped,bundle,org.eclipse.jst.ws,1.0.509.v201108250610,"org.eclipse.jst.ws",1378489518687
+stopped,bundle,org.eclipse.wst.ws.explorer,1.0.607.v201103082002,"org.eclipse.wst.ws.explorer",1378489518687
+stopped,bundle,org.eclipse.wst.wsdl.ui,1.2.403.v201108240515,"org.eclipse.wst.wsdl.ui",1378489518687
+stopped,bundle,org.eclipse.wst.ws.ui,1.1.200.v201004211805,"org.eclipse.wst.ws.ui",1378489518687
+stopped,bundle,org.eclipse.wst.wsi.ui,1.0.502.v201104071820,"org.eclipse.wst.wsi.ui",1378489518687
+stopped,bundle,org.eclipse.wst.wsi,1.0.401.v201104071820,"org.eclipse.wst.wsi",1378489518687
+stopped,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1378489518687
+stopped,bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.500.v201105122000,"org.eclipse.jst.j2ee.webservice.ui",1378489518687
+stopped,bundle,org.eclipse.jst.j2ee.webservice,1.1.400.v201004110600,"org.eclipse.jst.j2ee.webservice",1378489518687
+stopped,bundle,org.eclipse.wst.ws.parser,1.0.403.v201004211805,"org.eclipse.wst.ws.parser",1378489518687
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,2.5.0.200810071,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples",1378489518687
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages,1.1.0.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages",1378489518687
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui,1.1.1.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui",1378489518687
+stopped,bundle,org.eclipse.jst.jsf.apache.trinidad.tagsupport,1.1.200.v201104061711,"org.eclipse.jst.jsf.apache.trinidad.tagsupport",1378489518687
+stopped,bundle,org.eclipse.jst.jsf.facesconfig.ui,1.2.2.v201103292152,"org.eclipse.jst.jsf.facesconfig.ui",1378489518687
+stopped,bundle,org.eclipse.jst.jsf.facelet.ui,1.0.1.v201104032306,"org.eclipse.jst.jsf.facelet.ui",1378489518687
+stopped,bundle,org.eclipse.jst.jsf.ui,1.3.2.v201104251204,"org.eclipse.jst.jsf.ui",1378489518687
+stopped,bundle,org.eclipse.jst.pagedesigner.jsf.ui,1.2.100.v201104061711,"org.eclipse.jst.pagedesigner.jsf.ui",1378489518687
+stopped,bundle,org.eclipse.jst.pagedesigner,1.3.104.v201201181342,"org.eclipse.jst.pagedesigner",1378489518687
+stopped,bundle,org.eclipse.jst.jsf.common.ui,1.2.100.v201104061711,"org.eclipse.jst.jsf.common.ui",1378489518687
+stopped,bundle,org.eclipse.pde.ua.ui,1.0.100.v20110516,"org.eclipse.pde.ua.ui",1378489518687
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.300.v201004280700,"org.eclipse.jst.j2ee.xdoclet.runtime",1378489518687
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.200.v201103302125,"org.eclipse.jst.j2ee.ejb.annotations.xdoclet",1378489518687
+stopped,bundle,com.android.ide.eclipse.adt,12.0.0.v201106281929-138431,"com.android.ide.eclipse.adt",1378489518687
+stopped,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1378489518687
+stopped,bundle,org.eclipse.datatools.connectivity.oda.template.ui,3.2.3.v201201121156,"org.eclipse.datatools.connectivity.oda.template.ui",1378489518687
+stopped,bundle,org.eclipse.pde.ds.ui,1.0.100.v20111213-1754,"org.eclipse.pde.ds.ui",1378489518687
+stopped,bundle,org.eclipse.pde.runtime,3.4.201.v20110928-1516,"org.eclipse.pde.runtime",1378489518687
+stopped,bundle,org.eclipse.pde.ui.templates,3.4.400.v20110928-1516,"org.eclipse.pde.ui.templates",1378489518687
